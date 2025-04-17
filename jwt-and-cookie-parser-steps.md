@@ -389,7 +389,7 @@ app.get('/job-applications', verifyToken, async (req, res) => {
 
 
 
-
+```js
 <!-- jwt and cookie parser steps
 
 1. install jsonwebtoken cookie-parser
@@ -718,3 +718,5 @@ app.get('/job-applications', verifyToken, async (req, res) => {
 
 
  -->
+
+ ```
